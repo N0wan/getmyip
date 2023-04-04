@@ -1,2 +1,2 @@
-# getmyip
-A CLI tool that prints the public IP address.
+# getpublicip
+A CLI tool that prints your public IPv4 address.
