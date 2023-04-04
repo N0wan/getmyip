@@ -1,0 +1,25 @@
+{
+  "name": "getpublicip",
+  "version": "1.0.0",
+  "description": "A CLI tool that prints your public IPv4 address.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0wan/getmyip.git"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "François Baré",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N0wan/getmyip/issues"
+  },
+  "homepage": "https://github.com/N0wan/getmyip#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "bin": {
+    "getpublicip": "./index.js"
+  }
+}
