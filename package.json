@@ -20,6 +20,6 @@
     "commander": "^10.0.0"
   },
   "bin": {
-    "getpublicip": "./index.js"
+    "getpublicip": "./bin/getpublicip"
   }
 }
